@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T05:37:20.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="O_bVsIPbTsXNossPXZ4D" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T05:45:16.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="f2KDSdufA9IdyHM9quKx" version="13.7.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1207" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -310,9 +310,6 @@
             <mxRectangle x="602.5" y="1560" width="60" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-69" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;shadow=0;glass=0;startSize=26;labelBorderColor=none;labelBackgroundColor=none;sketch=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1803" width="160" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-70" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;shadow=0;glass=0;fontFamily=Comic Sans MS;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="412" y="1570" width="160" height="86" as="geometry" />
         </mxCell>
@@ -325,17 +322,20 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-73" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;rounded=1;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-70">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-74" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;Object:Type&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ field: Type&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="1967" width="160" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-75" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;CNF&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="1699" width="160" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-76" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;Presentation Metadata&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ asset_id: int&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ cp_id: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ presentation_id: string&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-76" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; line-height: 100%&quot;&gt;&lt;b&gt;Presentation Metadata&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ asset_id: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ cp_id: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ presentation_id: string&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;rounded=1;sketch=1;spacingTop=0;spacing=2;horizontal=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="1699" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-77" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;Track&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ type: string&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ file_name: string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ hash: string&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1950" y="1699" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-78" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;Presentation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ id: string&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ asset_id: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ cp_id: int&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1900" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-79" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;Essence Resource&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ id: string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ cp_id: int&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ type: string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ path: string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;+ hash: string&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Comic Sans MS;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1900" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
