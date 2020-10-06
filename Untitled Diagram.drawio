@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T11:20:50.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="lapLEsN98P1sClVG0CGP" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T11:26:42.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="XQlaB52emgVFN2LDZjKm" version="13.7.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="774" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -392,12 +392,12 @@
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-98" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=1;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-98" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=1;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;collapsible=0;" vertex="1" parent="1">
           <mxGeometry x="543" y="2477" width="717" height="380" as="geometry">
             <mxRectangle x="543" y="2423" width="61" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-99" value="Content Parterner" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-98">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-99" value="Content Parterner" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;collapsible=0;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-98">
           <mxGeometry y="20" width="717" height="120" as="geometry">
             <mxRectangle y="20" width="480" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -419,17 +419,17 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-109" value="upload video file" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-99">
           <mxGeometry x="134" y="65" width="123" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-100" value="Metadata Platform" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-98">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-100" value="Metadata Platform" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;collapsible=0;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-98">
           <mxGeometry y="140" width="717" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-110" value="upload xml file" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-100">
-          <mxGeometry x="276.5" y="45" width="95" height="30" as="geometry" />
+          <mxGeometry x="276.5" y="45" width="113.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-102" value="TAPI" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-98">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-102" value="TAPI" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;collapsible=0;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-98">
           <mxGeometry y="260" width="717" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-111" value="upload xml file" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-102">
-          <mxGeometry x="134" y="45" width="95" height="30" as="geometry" />
+          <mxGeometry x="134" y="45" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-115" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;fontFamily=Comic Sans MS;fontSize=18;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;" edge="1" source="pkwPzaPYfRj4sN46si9D-105" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -439,6 +439,11 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-120" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;shadow=0;fontFamily=Comic Sans MS;fontSize=18;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;" edge="1" source="pkwPzaPYfRj4sN46si9D-105" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="2574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-127" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;shadow=0;fontFamily=Comic Sans MS;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;" edge="1" source="pkwPzaPYfRj4sN46si9D-109" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="738" y="2780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
