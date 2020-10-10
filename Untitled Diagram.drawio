@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T15:10:12.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="_W1iScvZxVaLWUJCpdH6" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T15:20:48.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="mDpwOpGa_vBHG5d3sT4E" version="13.7.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1419" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1135" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -589,7 +589,7 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-175" value="+ hash: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;sketch=1;rounded=1;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-172">
           <mxGeometry y="88" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-183" value="&lt;&lt;Entity&gt;&gt;&#xa;Essence" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;shadow=0;glass=0;swimlaneLine=1;fontFamily=Comic Sans MS;swimlaneFillColor=none;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-183" value="&lt;&lt;Aggregate Root&gt;&gt;&#xa;Essence" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;shadow=0;glass=0;swimlaneLine=1;fontFamily=Comic Sans MS;swimlaneFillColor=none;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1860" y="2115.5" width="183" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-185" value="+ type: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;sketch=1;rounded=1;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-183">
@@ -616,7 +616,7 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-196" value="+ type: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;sketch=1;rounded=1;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-194">
           <mxGeometry y="67" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-177" value="&lt;&lt;Aggregate Root&gt;&gt;&#xa;EssenceResource" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;shadow=0;glass=0;swimlaneLine=1;fontFamily=Comic Sans MS;swimlaneFillColor=none;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-177" value="&lt;&lt;Entity&gt;&gt;&#xa;EssenceResource" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;shadow=0;glass=0;swimlaneLine=1;fontFamily=Comic Sans MS;swimlaneFillColor=none;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1861.5" y="2250" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-178" value="+ id: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;sketch=1;rounded=1;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-177">
@@ -978,7 +978,7 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-301" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Domain Repository&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;PresentationRepository&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1117.26" y="3900" width="185.24" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-303" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;PAPI Proxy&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-303" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;REST Proxy&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1119" y="4030" width="183.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-309" value="" style="endArrow=block;dashed=1;endFill=0;endSize=10;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=18;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;sketch=1;" edge="1" parent="1" source="pkwPzaPYfRj4sN46si9D-303" target="pkwPzaPYfRj4sN46si9D-301">
