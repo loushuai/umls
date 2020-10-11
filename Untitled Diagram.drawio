@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T00:37:28.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="tOZ7Pr3-Oqt8T-TJ3K2b" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T00:38:41.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="gpmqdmQA-lzj2A1THsO8" version="13.7.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1419" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -694,7 +694,7 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-209" value="&lt;font size=&quot;1&quot;&gt;Presentation Bounded Context&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1490" y="2270" width="188" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-210" value="&lt;font size=&quot;1&quot;&gt;Essence Bounded Context&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-210" value="&lt;font size=&quot;1&quot;&gt;Multimedia Bounded Context&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1965.88" y="2084" width="146.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-190" value="&lt;&lt;Value Object&gt;&gt;&#xa;Audio Media" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;shadow=0;glass=0;swimlaneLine=1;fontFamily=Comic Sans MS;swimlaneFillColor=none;sketch=1;rounded=1;" vertex="1" parent="1">
