@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T14:39:10.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Azlv0Cx_ZlXzC5ka3K-U" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T14:41:54.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Z5_0R8NeH77AB7zBIc8O" version="13.7.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="967" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1133,7 +1133,7 @@
         <mxCell id="EkdNZauu5sKqRHObEGAc-63" value="&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;align=center;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="1791.5" y="2669" width="206" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="EkdNZauu5sKqRHObEGAc-64" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Entity»&lt;br&gt;&lt;/font&gt;&lt;b&gt;CNF&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="EkdNZauu5sKqRHObEGAc-64" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Entity»&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;CNF&lt;/font&gt;&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1819.5" y="2715" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EkdNZauu5sKqRHObEGAc-65" value="&lt;font size=&quot;1&quot;&gt;CNF Bounded Context&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
@@ -1148,26 +1148,41 @@
         <mxCell id="EkdNZauu5sKqRHObEGAc-68" value="&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;align=center;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1791.5" y="2821" width="206" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="EkdNZauu5sKqRHObEGAc-69" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Aggregate Root»&lt;br&gt;&lt;/font&gt;&lt;b&gt;Resource&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="EkdNZauu5sKqRHObEGAc-69" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Aggregate Root»&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Resource&lt;/font&gt;&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="2064" y="2715" width="158" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EkdNZauu5sKqRHObEGAc-70" value="&lt;font size=&quot;1&quot;&gt;Common Types&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1785" y="2909" width="112" height="20" as="geometry" />
+          <mxGeometry x="1785" y="2907" width="112" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EkdNZauu5sKqRHObEGAc-71" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Value Object»&lt;br&gt;&lt;/font&gt;&lt;b&gt;Asset ID&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="EkdNZauu5sKqRHObEGAc-71" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Value Object»&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Asset ID&lt;/font&gt;&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="1819.5" y="2848" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EkdNZauu5sKqRHObEGAc-72" value="&lt;font size=&quot;1&quot;&gt;Presentation Bounded Context&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2034.5" y="2907" width="188" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EkdNZauu5sKqRHObEGAc-73" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Aggregate Root»&lt;br&gt;&lt;/font&gt;&lt;b&gt;Presentation&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="EkdNZauu5sKqRHObEGAc-73" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Aggregate Root»&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Presentation&lt;/font&gt;&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="2064" y="2848" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EkdNZauu5sKqRHObEGAc-74" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Entity»&lt;br&gt;&lt;/font&gt;&lt;b&gt;Track&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="EkdNZauu5sKqRHObEGAc-74" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Entity»&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Track&lt;/font&gt;&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="2273" y="2850" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EkdNZauu5sKqRHObEGAc-75" value="&lt;font size=&quot;1&quot;&gt;Resource Bounded Context&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2059.63" y="2682" width="152.37" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-76" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;«Value Object»&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Media Info&lt;/font&gt;&lt;/b&gt;" style="html=1;sketch=1;shadow=0;rounded=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2265" y="2715" width="158" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-77" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=0;sketch=1;curved=1;" edge="1" parent="1" source="EkdNZauu5sKqRHObEGAc-71" target="EkdNZauu5sKqRHObEGAc-64">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1616" y="2546" as="sourcePoint" />
+            <mxPoint x="1616" y="2690.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-78" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;sketch=1;curved=1;" edge="1" parent="1" source="EkdNZauu5sKqRHObEGAc-71" target="EkdNZauu5sKqRHObEGAc-73">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1904.5" y="2858" as="sourcePoint" />
+            <mxPoint x="1904.5" y="2775" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
