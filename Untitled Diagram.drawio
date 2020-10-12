@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T10:00:52.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="2mgCx-kwkmcT5-smEyTT" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T12:37:44.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="OHL829qm8-KcTuSjI5iO" version="13.7.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1419" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1207" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-136" value="Publish" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-100">
           <mxGeometry x="586" y="45" width="113.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-110" value="Construct CNF" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-100">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-110" value="Create asset" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-100">
           <mxGeometry x="282.25" y="45" width="113.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-135" value="Review" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-100">
@@ -1024,6 +1024,18 @@
             <mxPoint x="250" y="330" as="sourcePoint" />
             <mxPoint x="410" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-366" value="manifest&lt;br&gt;xml file" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1698" y="842" width="102" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-369" value="video file" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1698" y="1000" width="102" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-370" value="caption file" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1698" y="1158" width="102" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-372" value="asset" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1911" y="874" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
