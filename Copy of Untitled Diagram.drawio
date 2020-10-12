@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T23:37:32.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="dOJEwkF1kD6FKIH8A80U" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T23:37:44.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="_2RpgyjwwPPWnetiJuKc" version="13.7.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1419" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -93,6 +93,9 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-102" value="TAPI" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;collapsible=0;" parent="pkwPzaPYfRj4sN46si9D-98" vertex="1">
           <mxGeometry y="276" width="821" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="pkwPzaPYfRj4sN46si9D-111" value="Preprocess multimedia files" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" parent="pkwPzaPYfRj4sN46si9D-102" vertex="1">
+          <mxGeometry x="118.5" y="45" width="182" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-134" value="Publish presentation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" parent="pkwPzaPYfRj4sN46si9D-102" vertex="1">
           <mxGeometry x="653" y="45" width="132" height="30" as="geometry" />
         </mxCell>
@@ -101,9 +104,6 @@
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-278" value="Create presentation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" parent="pkwPzaPYfRj4sN46si9D-102" vertex="1">
           <mxGeometry x="354" y="45" width="123" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-111" value="Preprocess multimedia files" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" parent="pkwPzaPYfRj4sN46si9D-102" vertex="1">
-          <mxGeometry x="133" y="45" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-137" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;shadow=0;fontFamily=Comic Sans MS;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="pkwPzaPYfRj4sN46si9D-98" source="pkwPzaPYfRj4sN46si9D-107" target="pkwPzaPYfRj4sN46si9D-110" edge="1">
           <mxGeometry relative="1" as="geometry">
