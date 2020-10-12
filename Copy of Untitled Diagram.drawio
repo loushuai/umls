@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T14:44:11.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="iK0V5yGradIxHVgNfj_8" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T15:05:47.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="vE9A73NIR90MyiqOi6mS" version="13.7.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1074" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1206,6 +1206,30 @@
             <mxPoint x="2139" y="2765" as="sourcePoint" />
             <mxPoint x="2287" y="3072" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-84" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Command&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Resource Ingested&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="1924.87" y="3054" width="142" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-85" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Command&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Presentation Created&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="2315.75" y="3052" width="142" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-86" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Domain Service&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Resource Management&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1910.87" y="3207" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-87" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Domain Service&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Presentation Management&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2301.25" y="3205" width="171" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-88" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Domain Event&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Unassociated Resource Ingested&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="3310" width="205.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-89" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Domain Event&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Unfullfilled Presentation Created&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="2284" y="3308" width="205.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-90" value="&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Message Queue&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="1904" y="3444" width="585" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkdNZauu5sKqRHObEGAc-91" value="&lt;span style=&quot;font-size: 12px ; font-weight: bold&quot;&gt;&amp;lt;&amp;lt;Domain Service&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px ; margin: 0px ; font-size: 12px ; font-weight: bold&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;Resource Management&lt;/b&gt;&lt;/span&gt;" style="html=1;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2106" y="3207" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
