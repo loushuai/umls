@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T12:37:56.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="HA9wfBIPtqr4Yd7bkOhI" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T12:38:18.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="ZELGu6xVplGTil_yxlcy" version="13.7.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1207" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="pkwPzaPYfRj4sN46si9D-102" value="TAPI" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Comic Sans MS;collapsible=0;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-98">
           <mxGeometry y="260" width="737" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-111" value="Prepare multimedia information" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-102">
+        <mxCell id="pkwPzaPYfRj4sN46si9D-111" value="Preprocess multimedia files" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-102">
           <mxGeometry x="123" y="45" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-134" value="Publish presentation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;glass=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="pkwPzaPYfRj4sN46si9D-102">
