@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T12:46:05.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Q_XIOizGZaudA6jGCO0y" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T12:50:18.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="WHx0-MSBCq0b9GcDenB8" version="13.7.7" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1207" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1050,9 +1050,6 @@
         </mxCell>
         <mxCell id="pkwPzaPYfRj4sN46si9D-370" value="caption file" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1698" y="1158" width="102" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="pkwPzaPYfRj4sN46si9D-372" value="asset" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1911" y="874" width="159" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
